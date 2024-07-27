@@ -1,0 +1,49 @@
+https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia
+
+COMO ENTREGAR SEU PROJETO:
+- Crie um repositório no GitHub com os prompts que você utilizou na criação do projeto;
+- Salve nesse mesmo repositório as imagens geradas na construção do seu artigo;
+- Coloque o link do seu artigo no README do seu GitHub;
+- Envie para gente o link do seu repositório.
+
+
+CHECKLIST DE PARA GERAR ARTIGOS DE QUALIDADE
+- [] Definir o assunto
+- [] Título chamativo: headline
+- [] Imagem de capa chamativa
+- [] Blocos do artigo
+- [] Postar o artigo com um call to action
+
+
+Titulo
+Diretivas estruturais versus diretivas de atributo: Qual usar no python?
+"Python e Automação: Como Criar Soluções Rápidas e Eficazes para Seu Dia a Dia"
+
+
+Capa
+Feito com imagens do google e power point
+https://blog.facialix.com/te-gusta-el-espacio-aprende-python-con-este-curso-gratuito-de-microsoft-y-la-nasa/
+
+
+Blocos
+-- PROMPT
+1.Comporte-se como um escritor de artigos tech python e escreva o Artigo atendendo as regras abaixo
+{REGRAS}
+> No máximo 8 linhas por bloco de explicação
+> Explique de maneira simples mas completa, como se eu fosse uma desenvolvedor junior
+> Os blocos que serão criados estão abaixo:
+- O que é automação no Python e como pode ajudar no dia a dia
+    - Cite 5 exemplos com código python para automatizar tarefas no trabalho
+    - Faça uma introduçao explicando cada exemplo de codigo
+    - Cite as vantagens e desvantagens de cada exemplo de codigo e como isso pode diminuir o tempos nas tarefas para tratamento de dados
+
+- Faça um call to action para minhas redes sociais
+- Coloque 3 hashtag que façam sentido
+
+Ilustração de capa: Feito com imagens do google
+Conteúdo gerado por: ChatGPT e revisões humanas
+
+2. gostei da resposta, melhore o call to action com o link das redes sociais
+3. faça uma conclusão
+4. Crie uma introdução
+5. Crie sb titulos e separe por blocos cada parte do artigo
